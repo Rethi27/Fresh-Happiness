@@ -1,0 +1,43 @@
+.About-us-section {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.about-us-text-section {
+  margin-bottom: 1rem;
+}
+.about-us-text-section p {
+  font-weight: 600;
+}
+
+.about-us-img-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.large-assortment,
+.free,
+.support {
+  padding: 1rem;
+  max-width: 25rem;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.leaf-png,
+.luggage-png,
+.phone-png {
+  width: 3rem;
+  margin-top: 1rem;
+}
+
+.large,
+.fast,
+.support-h {
+  margin-bottom: 1rem;
+}
+
+.large-p,
+.free-p,
+.support-p {
+  font-weight: 550;
+  line-height: 1.5;
+}

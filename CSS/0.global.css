@@ -1,0 +1,13 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

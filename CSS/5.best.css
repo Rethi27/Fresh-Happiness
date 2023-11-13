@@ -1,0 +1,28 @@
+.best-seller-img {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.d {
+  max-width: 25rem;
+}
+.img1,
+.img2,
+.img3,
+.img4 {
+  width: 100%;
+}
+
+.best-seller-section {
+  margin-top: 10rem;
+}
+.best-seller-section h1 {
+  margin-left: 2rem;
+}
+.best-seller-img p {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}

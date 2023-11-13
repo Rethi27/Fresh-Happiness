@@ -1,0 +1,38 @@
+.product-section {
+  margin-top: 15rem;
+  text-align: center;
+}
+.product-section-h {
+  margin-bottom: 10rem;
+}
+
+.product-img-section {
+  width: 100%;
+  padding-bottom: 4rem;
+  background-color: #dafbf0;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.one,
+.three {
+  margin-top: -20rem;
+}
+.two {
+  margin-top: 15rem;
+}
+.plants {
+  font-weight: 600;
+}
+.product-p {
+  font-weight: 600;
+}
+
+.one img,
+.two img,
+.three img {
+  width: 100%;
+}

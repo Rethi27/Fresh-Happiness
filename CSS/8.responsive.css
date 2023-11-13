@@ -1,0 +1,22 @@
+@media all and (max-width: 500px) {
+  .header-img {
+    display: none;
+  }
+  .about-us-img-section {
+    grid-template-columns: 1fr;
+    row-gap: 1.5rem;
+  }
+  .flex {
+    flex-direction: column;
+    margin-bottom: 0rem;
+  }
+  .one,
+  .two,
+  .three {
+    margin: 0rem;
+    margin-bottom: 3rem;
+  }
+  .best-seller-img {
+    flex-direction: column;
+  }
+}
